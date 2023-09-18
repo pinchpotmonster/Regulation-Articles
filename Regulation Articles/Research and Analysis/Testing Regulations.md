@@ -23,3 +23,4 @@ Please note that all regulations here must be followed at **all** times. No exce
         3.1.2 Under no circumstances is the Research and Analysis to cooperate or give any information to The Sinless Order.
         3.1.3 Any and all information requested by an agent of the Internal Agents is to be given up immediately without hesitation.
       3.2 The Medical Department may use specific entities for medical reasons.
+      
